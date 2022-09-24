@@ -1,2 +1,0 @@
-# survay
-survay
